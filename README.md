@@ -2,8 +2,7 @@
 
 Geoff Ford  
 [https://geoffford.nz](https://geoffford.nz/)  
-
-[![Version 1.1.0 Badge][version-badge]][CHANGELOG.md]
+Version 1.1.0
 
 The notebook in this repository is provided for students in DIGI405 at the University of Canterbury to query a Large Language Model (LLM) to generate a corpus. Students can adapt the code to generate their own data for an assignment.  
 
