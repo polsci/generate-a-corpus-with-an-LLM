@@ -23,6 +23,8 @@
 
 ## [1.0.0] - 2024-08-06
 
+Released to class.
+
 ### Added:
 
 - First version released to class
