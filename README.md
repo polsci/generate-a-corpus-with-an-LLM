@@ -2,11 +2,14 @@
 
 Geoff Ford  
 [https://geoffford.nz](https://geoffford.nz/)  
+
 ![GitHub Release](https://img.shields.io/github/v/release/polsci/generate-a-corpus-with-an-LLM) 
 
 The notebook in this repository is provided for students in DIGI405 at the University of Canterbury to query a Large Language Model (LLM) to generate a corpus. Students can adapt the code to generate their own data for an assignment.  
 
-I appreciate this notebook may be relevant for others. If you use it please retain the authorship information and links.  
+I appreciate this notebook may be relevant for others. If you use it please retain the authorship information and links or cite it.  
+
+To learn more take a look at [the notebook](https://github.com/polsci/generate-a-corpus-with-an-LLM/blob/master/DIGI405%20-%20generate%20a%20corpus%20with%20an%20LLM.ipynb). I've also written a post on my website about [how we are using this in class](https://geoffford.nz/generate-a-corpus).  
 
 Changes are documented in the [CHANGELOG](changelog.md).
 
