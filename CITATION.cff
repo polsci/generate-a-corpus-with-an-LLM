@@ -5,7 +5,7 @@ authors:
   given-names: "Geoffrey"
   orcid: "https://orcid.org/0000-0001-7088-4073"
 title: "Generate a corpus with an LLM"
-version: 1.1.0
+version: 1.1.1
 doi: 
-date-released: 2024-08-11
+date-released: 2024-08-23
 url: "https://github.com/polsci/generate-a-corpus-with-an-LLM"

@@ -1,5 +1,18 @@
 # Change log
 
+## [1.1.1] - 2024-08-11
+
+### Added:
+
+- CITATION.cff
+- link to post about repo
+
+### Changed:
+
+- README title and release badge
+- minor text changes and typo fixes
+
+
 ## [1.1.0] - 2024-08-11
 
 ### Added:
