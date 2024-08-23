@@ -1,4 +1,4 @@
-# DIGI405 - generate a corpus with an LLM  
+# Generate a corpus with an LLM  
 
 Geoff Ford  
 [https://geoffford.nz](https://geoffford.nz/)  
