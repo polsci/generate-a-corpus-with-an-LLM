@@ -1,5 +1,17 @@
 # Change log
 
+## [1.1.2] - 2025-08-03
+
+## Added:
+
+- add explanation of system and user prompts with examples
+
+### Changed:
+
+- switched to Cerebras for API calls in the notebook
+- updated README to reflect Cerebras usage and DIGI405 usage
+- moved requirements to README
+
 ## [1.1.1] - 2024-08-11
 
 ### Added:
